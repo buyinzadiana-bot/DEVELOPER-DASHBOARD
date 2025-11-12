@@ -39,4 +39,5 @@ Tailwind CSS ,          Utility-first CSS for styling |
 GitHub API ,            Fetch developer profile info |
 OpenWeatherMap API ,    Fetch real-time weather data |
 
+![a screenshot of my dashboard](https://github.com/buyinzadiana-bot/DEVELOPER-DASHBOARD/blob/ef3374e849821afef983d5ec270cf4a30774de5b/Screenshot%202025-11-12%20at%2015.09.29.png)
 
